@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[154],{9154:function(e,t,a){a.r(t),a.d(t,{default:function(){return c}});var r="NotFoundPage_container__XkGLH",n="NotFoundPage_image__+sqlZ",o=a(3329),c=function(){return(0,o.jsx)("div",{className:r,children:(0,o.jsx)("img",{src:"https://img.freepik.com/free-vector/404-error-with-a-landscape-concept-illustration_114360-7888.jpg?w=2000",alt:"Page not found",className:n})})}}}]);
+//# sourceMappingURL=154.0f36ba08.chunk.js.map
