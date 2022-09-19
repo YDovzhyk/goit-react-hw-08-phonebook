@@ -1,0 +1,12 @@
+.navbar {
+    padding: 15px 0;
+    border-bottom: 4px solid rgb(34, 88, 88);
+    background-image: url("./Picture2.png");
+    background-size: 100% 100%;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

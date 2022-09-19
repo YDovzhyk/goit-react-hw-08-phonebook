@@ -1,0 +1,24 @@
+.container{
+    margin-top: 20px;
+    margin-left: auto;
+    margin-left: auto;
+}
+.title {
+    margin-bottom: 0px;
+    padding-left: 20px;
+    color: rgb(34, 88, 88);
+}
+.familyBlock {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    box-shadow: 0 0 0 1px white, 0 0 4px #5d8aa8;
+}
+.familyBlockList {
+    padding-left: 40px;
+}
+.items {
+    margin-bottom: 10px;
+}
